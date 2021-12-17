@@ -210,4 +210,8 @@ body {
 #topview p {
   font-weight: 100;
 }
-
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: rgb(199, 196, 196);
+}
